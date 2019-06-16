@@ -1,5 +1,3 @@
-# Crimes_em_Chicago
-#Analise_de_crimes_em_Chicago 
-#Dupla:
-#Wellington Felipe 
-#Ramon Amorim
+Análise de Crimes em Chicago:
+Período de 2012 a 2017
+Dupla: Wellington Felipe e Ramon Amorim
